@@ -23,6 +23,11 @@ public class Libro {
         disponible = true;
     }
 
+    
+    public void devolverTest() {
+        disponible = true;
+    }
+
     // Opcional: para imprimir el libro
     @Override
     public String toString() {
